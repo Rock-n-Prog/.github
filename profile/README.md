@@ -6,17 +6,17 @@ Rock n' Prog is just a namespace for stuff I wanna build and showcase. It's thin
 
 ## Core ideologies
 
-- Developper experience above all else
-- Leave room for R&D and openness
-- Continuous deployments renders agile sprints useless
-- A metric is not an objective
-- Functional programming is a must
-- Keep it simple, stupid
-- Continous improvements
-- Collective ownership
-- Always refactor things iteratively
-- Only test what deserves it
-- A defined and applied code style is a must
+- **Developper experience** above all else
+- Leave room for **R&D and openness**
+- **Continuous deployments** renders agile sprints useless
+- **A metric is not an objective**
+- **Functional programming** is a must
+- Keep it **simple**, stupid
+- **Continous improvements**
+- **Collective ownership**
+- Always **refactor things iteratively**
+- **Only test what deserves it**
+- A defined and applied **code style** is a must
 
 ## Stack-independant principles
 
