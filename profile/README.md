@@ -22,5 +22,6 @@ Rock n' Prog is just a namespace for stuff I wanna build and showcase. It's thin
 
 - UI components are to be considered as a unit of logic, templating and styling
 - Reactive UI architectures are prefered
-  - No need for complex patterns, `react-query` as such-as does 99% of the job
+  - No need for complex patterns, `react-query` or such-as does 99% of the job
 - RPC is the closest we can get to call server functions directly, so use it if possible
+- CI is not a nice to have, it is a necessity
