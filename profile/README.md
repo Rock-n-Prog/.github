@@ -15,7 +15,7 @@ Rock n' Prog is just a namespace for stuff I wanna build and showcase. It's thin
 - **Continuous improvements**
 - **Collective ownership**
 - Always **refactor things iteratively**
-- **Test minimally**, as large as possible
+- **Small tests with a high scope** makes tests valuable and easy to maintain
 - A defined and applied **code style** is a must
 
 ## Stack-independent principles
