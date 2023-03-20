@@ -1,6 +1,6 @@
 # Rock n' Prog :love_you_gesture:	
 
-Yo. Welcome to [@ExiledNarwal28](https://github.com/ExiledNarwal28)'s home.
+Yo. Welcome to [@fabien-roy](https://github.com/fabien-roy)'s home.
 
 Rock n' Prog is just a namespace for stuff I wanna build and showcase. It's things I try, things I use, things I love.
 
